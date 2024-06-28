@@ -44,4 +44,21 @@
             </li> 
         </ul>     
     </header>
+
+         <section id="main">
+        <div class="container">
+            <article id="main">
+                <h1>Get Involved:</h1>
+                <h2>"Get involved and ignite your passion for Inabel Iloco by signing up on our website today. With a minimum purchase of $100 on our exquisite Inabel Iloco merchandise, immerse yourself in vibrant traditions and uncover the secrets of the past"</h2> <hr>
+                <p>Our immersive experiences promise to transport you to a world like no other, where the rich heritage of Inabel weaving awaits to be explored. Join us on this extraordinary journey of discovery and celebration.</p>
+                <img src="https://d19fbfhz0hcvd2.cloudfront.net/PR/wp-content/uploads/2020/01/pr-my-business-plan-inabel-shop-4.jpg" style="display: block; margin: 0 auto;">
+
+            </article>
+        </div>
+    </section>
+    <footer  style="text-align: center;">
+    <p><strong>AbelLux INABEL ILOCO Essence, &copy;2024 </strong></p>
+    </footer>
+  </body>
+</php>
  
