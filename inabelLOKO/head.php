@@ -11,4 +11,4 @@
         <title>Homepage | AbelLux INABEL ILOCO Essence </title>
         <link rel="stylesheet" href="styleX.css">
         <script src="project.js"></script>
-    </head>
+    </head>
